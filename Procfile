@@ -1,0 +1,1 @@
+web: gunicorn mmf-group-bot:app
