@@ -1,6 +1,5 @@
 pyTelegramBotAPI
 flask
-gunicorn
+gunuincorn
 datetime
-os
 time
