@@ -20,7 +20,7 @@ def SPTR(message):
 
 
 print(__name__)
-
+bot.send_message(699642076, '.') # Testing purpose.
 
 while True:
     try:bot.polling()
